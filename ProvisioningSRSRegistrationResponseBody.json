@@ -1,0 +1,34 @@
+{
+    "serial_number": "ELMSAE07208LD7",
+    "certificate_response": "-----BEGIN CERTIFICATE-----\nMIIFgjCCBGqgAwIBAgITSwAA//FzUEkhzTevVgAAAAD/8TANBgkqhkiG9w0BAQsF\nADCBrzELMAkGA1UEBhMCVVMxDjAMBgNVBAgTBVRleGFzMRMwEQYDVQQHEwpSb3Vu\nZCBSb2NrMR8wHQYDVQQKExZEZWxsIFRlY2hub2xvZ2llcyBJbmMuMSQwIgYDVQQL\nExtEZWxsIFNlY3VyZSBSZW1vdGUgU2VydmljZXMxNDAyBgNVBAMTK0RlbGwgU2Vj\ndXJlIFJlbW90ZSBTZXJ2aWNlcyBUZXN0IElzc3VpbmcgQ0EwHhcNMjAwNzAxMDkw\nODUxWhcNNDUwNjI1MDkwODUxWjCBqTELMAkGA1UEBhMCVVMxDjAMBgNVBAgTBVRl\neGFzMRMwEQYDVQQHEwpSb3VuZCBSb2NrMR8wHQYDVQQKExZEZWxsIFRlY2hub2xv\nZ2llcyBJbmMuMSQwIgYDVQQLExtEZWxsIFNlY3VyZSBSZW1vdGUgU2VydmljZXMx\nLjAsBgNVBAMMJVNFUlZJQ0UgUExBTk5JTkcgLSBTVlRfRUxNU0FFMDcyMDhMRDcw\nggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGEHmp8MDUQ2vaCtHzXWdW\nZ+weOjAOIul79xDnPjBC8M8EI5HCGBIrqWMJLKJ+B42DYLJ9Ohy9sA4h9FbSP6y6\n1fj7+/MNJMOORgI3nCVO6J4V3zMZBsmiN3Qm9YV3a9iituVthkFLkqTWGzxOcm9t\nqaekluRZgTlAeY7l0lA8gyxV7XXLc6ah0UbZQroKCwpmhEKN1fwYSzg+dmiZr7Kz\nroVjF/RDR/fdbR1f8BwH7JriicqXVOWxYxUSIjeFT1SQr6RxLuzExFXgYllfDCQy\nzpWF/JjtST1HXWjxfRlNGOcGPQzhnzDGsAEEkPWka3VlObWpCmkhYR6JINSWe0dh\nAgMBAAGjggGZMIIBlTA9BgkrBgEEAYI3FQcEMDAuBiYrBgEEAYI3FQiHuNlsgYT4\nCIa9jQ+F84A1grOZWjOGk70ygv/VYAIBZAIBIzATBgNVHSUEDDAKBggrBgEFBQcD\nAjALBgNVHQ8EBAMCBaAwGwYJKwYBBAGCNxUKBA4wDDAKBggrBgEFBQcDAjAdBgNV\nHQ4EFgQUqRI11QrAX38RNjn3F3P624zCdZ4wHwYDVR0jBBgwFoAUkunYFeME7J8X\nXgO8zUTK1fvzliAwZAYDVR0fBF0wWzBZoFegVYZTaHR0cDovL2VzcnMtY3JsLmVt\nYy5jb20vRGVsbCUyMFNlY3VyZSUyMFJlbW90ZSUyMFNlcnZpY2VzJTIwVGVzdCUy\nMElzc3VpbmclMjBDQS5jcmwwbwYIKwYBBQUHAQEEYzBhMF8GCCsGAQUFBzAChlNo\ndHRwOi8vZXNycy1jcmwuZW1jLmNvbS9EZWxsJTIwU2VjdXJlJTIwUmVtb3RlJTIw\nU2VydmljZXMlMjBUZXN0JTIwSXNzdWluZyUyMENBLmNydDANBgkqhkiG9w0BAQsF\nAAOCAQEAefbFATqlPn/Kba+Hj1gwdubrsSE9JB6ysbuwvmYhkDR58Y34L02/TUJd\n7/599PZg6h4TY1kR7qWUoob/yfzMkIdgLs+hu9g6fsWxsSh0XIMqZKqz+Z9J3thN\ngyeKaHcFAOSzdVBE0JxJ/HRvGpbWGzY4rsiJ1khhKyq2UUUYX2jxG5+FFOC8P92E\nKMWPcmOZFV2BrZfAI3nyr59TfvV60rnegbmQDjXCS6ZikDnnfUR9pY4/AjcP5lx7\nr9yGRY456vQBDNGQo8eGrAvIYlKtXpkBRkyh3LZ4ePp/HqBIMvFxMckFHNBMUW4C\nbdewOagEbT2fDif3vA/SRGV/uuV2EQ==\n-----END CERTIFICATE-----\n",
+    "siteInfo": {
+        "siteId": "11145366",
+        "siteName": "SERVICE PLANNING - SVT",
+        "siteAddress": "171 SOUTH ST ",
+        "city": "HOPKINTON",
+        "state": "MA",
+        "zip": "01748",
+        "country": "US",
+        "region": "Corp CS Region",
+        "district": "Corp CS District",
+        "division": "Corp CS Division",
+        "theater": "Corp CS Theater"
+    },
+    "contactDetails": {
+        "firstName": "Aishwariya",
+        "lastName": "Prakash",
+        "email": "Aishwariya.Prakash@dell.com",
+        "phoneNumber": "80000",
+        "userId": "1230596",
+        "ntId": "prakaa13"
+    },
+    "preConfigData": [
+        {
+            "DRM_PORT": "443",
+            "DRM_IPADDRESS": "esrs3-corestg.isus.emc.com",
+            "DRM_SEC_IPADDRESS": "esrs3-corestg.isus.emc.com",
+            "DRM_SEC_PORT": "7002"
+        }
+    ],
+    "deviceKey": "dd762e09913a6c2e3e210d57b82056fb4d450d906d4e26dec89b23ad68c5fb4657bfd2d2a587c7cfc878d2e2f4374ae07ba0657291cb04eec02b3bc7c27d02d6"
+}

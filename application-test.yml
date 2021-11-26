@@ -1,0 +1,10 @@
+spring:
+  profiles.active: test
+
+ELMS_SWID_URL: http://localhost:1690/srs/generate/swid
+GEN4_DEVICEKEY_URL: http://localhost:1690
+devicekey.encrypturl: http://localhost:1690/devicekey/encrypt
+devicekey.decrypturl: http://localhost:1690/devicekey/decrypt
+platformURL: http://localhost:1690
+DIGITALTWIN_SVC_URL: http://localhost:1690/srs/digitaltwin/request
+SERVICE_ENTRY: http://localhost:1690/connectivity/appliance/servicelinkentry
